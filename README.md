@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/robinchampseix/hrvanalysis/branch/master/graphs/badge.svg)](https://codecov.io/gh/robinchampseix/hrvanalysis)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://pepy.tech/badge/hrv-analysis)](https://pepy.tech/project/hrv-analysis)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fclecoued%2Fhrvanalysis.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fclecoued%2Fhrvanalysis?ref=badge_shield)
 
 **hrvanalysis** is a Python module for Heart Rate Variability analysis of RR-intervals built on top of SciPy, AstroPy, Nolds and NumPy and distributed under the GPLv3 license.
 
@@ -185,6 +186,9 @@ Here are the main references used to compute the set of features and for signal 
 ## License
 
 This project is licensed under the *GNU GENERAL PUBLIC License* - see the [LICENSE.md](https://github.com/aura-healthcare/hrvanalysis/blob/master/LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fclecoued%2Fhrvanalysis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fclecoued%2Fhrvanalysis?ref=badge_large)
 
 ## How to contribute
 Please refer to [How To Contribute](https://github.com/aura-healthcare/hrvanalysis/blob/master/CONTRIBUTING.md)
